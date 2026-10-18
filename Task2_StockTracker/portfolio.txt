@@ -1,0 +1,3 @@
+AAPL: 10 x $180 = $1800
+TSLA: 5 x $250 = $1250
+Total Investment: $3050
